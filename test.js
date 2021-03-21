@@ -15,3 +15,6 @@ function test1(err) {
 function test2() {
   console.log('123 :>> ', 123);
 }
+
+alert("hhhh");
+document.write('jjjj');

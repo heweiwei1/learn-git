@@ -8,6 +8,10 @@ function test() {
   console.log(1111)
 }
 
-function (err) {
+function test1(err) {
   console.log('err :>> ', err)
+}
+
+function test2() {
+  console.log('123 :>> ', 123);
 }
